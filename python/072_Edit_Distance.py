@@ -38,7 +38,7 @@ class Solution(object):
         return dp[ls_1]
     
 
-    if __name__ == '__main__':
+if __name__ == '__main__':
     # begin
     s = Solution()
     print (s.minDistance("horse","ros"))        
